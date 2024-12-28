@@ -1,0 +1,52 @@
+module.exports = {
+  id: {
+    antinuke: "<:evo_antinuke:1318687191706108017>",
+    automod: "<:R4_automod:1318938567405469786>",
+    moderation: "<:moderation:1318644643922968598>",
+    customroles: "<:customrole:1319681842953326694>",
+    voiceroles: "<:vc:1318682989751959603>",
+    ignore: "<:Server:1320423725677412372>",
+    media: "<:Media:1318644764408680458>",
+    games: "<:Games:1319682947984392254>",
+    welcome: "<:welcomer:1318686763849351340>",
+    utility: "<:Utility:1319683653940281505>"
+  },
+  badges: {
+    owner: "<a:OWNER:1319725745366368350>",
+    dev: "<a:ActiveDev:1318685030503157780>",
+    admin: "<a:Admin:1319725346555429005>",
+    staff: "<:staff:1319725574687555691>",
+    partner: "<a:emoji_1734717658630:1319726258472620192>",
+    supporter: "<:supporters_badge:1319726477532594228>",
+    sponsor: "<:sponser:1319726685863809064>",
+    os: "<:QX_Owners_special:1319727617124995182>",
+    vip: "<a:VIP:1319727904879546501>",
+    friend: "<:friendly:1319041513879240725>",
+    bug: "<a:bug:1319727750692470875>"
+  },
+  util: {
+    enabled: "<:Enabled:1319728566467952693>",
+    disabled: "<:disabled:1319728579004596264>",
+    enabler: "<:enabler:1319729025035272212>",
+    disabler: "<:disabler:1319729041447846050>",
+    arrow: "<:arrow:1319729236453494907>",
+    tick: "<:tick:1319729443761160337>",
+    cross: "<:cross:1319729573528735765>",
+    loading: "<a:Loading:1318639917504532520>",
+  },
+  flag: {
+    nitro: "<a:nitro_v:1318683127656218757>",
+    booster: "<a:boosts:1318681014872047616>",
+    hypesquad: "<a:hypesquad:1319731873882177596>",
+    hype1: "<:bravery:1318683861667807254>",
+    hype2: "<a:brilliance:1318684000172114031>",
+    hype3: "<:balance:1318684187883999303>",
+    bug1: "<:bughunter:1318684339621466253>",
+    bug2: "<a:bug:1319727750692470875>",
+    verifieddev: "<a:verifydev:1319731387556691969>",
+    partner: "<a:emoji_1734717658630:1319726258472620192>",
+    activedev: "<a:ActiveDev:1318685030503157780>",
+    verifiedbot: "<a:Verify:1318684763493761097>",
+    staff: "<:staff:1319725574687555691>",
+  }
+};
